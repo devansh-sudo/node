@@ -1,0 +1,2 @@
+MONGO_URI =mongodb+srv://devanshdixit97:<deva8899>@cluster1.abq5k.mongodb.net/<cluster1>?retryWrites=true&w=majority
+PORT=8080;
